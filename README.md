@@ -7,8 +7,9 @@
 Building backend systems, APIs, automation and real-world products.
 
 <br>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ibragim-backend-portfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Ibrakam-181717?style=flat-square&logo=github)](https://github.com/Ibrakam)
+[![GitHub](https://img.shields.io/badge/GitHub-Ibrakam-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ibrakam)
 
 </div>
 
